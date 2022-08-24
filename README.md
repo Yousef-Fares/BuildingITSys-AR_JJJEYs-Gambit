@@ -11,3 +11,8 @@ Yousef Updates:
   - Back button
   - Options button
 - Added background and font textures
+
+Emre Updates: 
+-Constructed Basic Chessboard Object
+-Setup Chessboard Sizing + Color Variants
+-(Waiting on chess piece assets from joshua)
