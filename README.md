@@ -15,4 +15,4 @@ Yousef Updates:
 Emre Updates:
   - Constructed Basic Chessboard Object
   - Setup Chessboard Sizing + Color Variants
-  - (Waiting on chess piece assets from joshua)
+  - Imported Assets Provided by Joshua & Create Object Place Holders
